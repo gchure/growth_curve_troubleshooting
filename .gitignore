@@ -1,0 +1,12 @@
+*.pdf
+*.log
+*.pyc
+*.swp
+*.tif*
+*.bbl
+*.log
+*.aux
+*.DS_*tore
+*.pyc*
+*checkpoints*
+*__*cache__
