@@ -1,0 +1,6 @@
+README.md
+setup.py
+gc_curves.egg-info/PKG-INFO
+gc_curves.egg-info/SOURCES.txt
+gc_curves.egg-info/dependency_links.txt
+gc_curves.egg-info/top_level.txt

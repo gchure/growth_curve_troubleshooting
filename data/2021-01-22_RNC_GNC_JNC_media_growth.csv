@@ -1,0 +1,49 @@
+clock_time,elapsed_time_min,media_source,od_600nm,carbon_source,date,note
+11:38,0,Griffin ,0.034,glucose,2021-01-22,suspect - problem with blank
+11:39,0,Roshali,0.032,glucose,2021-01-22,suspect - problem with blank
+11:39,0,Griffin (Jonas' Ammonium),0.036,glucose,2021-01-22,suspect - problem with blank
+11:49,11,Griffin,0.04,glucose,2021-01-22,suspect - problem with blank
+11:50,11,Roshali,0.039,glucose,2021-01-22,suspect - problem with blank
+11:50,11,Griffin (Jonas' Ammonium),0.044,glucose,2021-01-22,suspect - problem with blank
+12:02,24,Griffin,0.046,glucose,2021-01-22,suspect - problem with blank
+12:02,23,Roshali,0.045,glucose,2021-01-22,suspect - problem with blank
+12:03,24,Griffin (Jonas' Ammonium),0.047,glucose,2021-01-22,suspect - problem with blank
+12:14,36,Griffin,0.053,glucose,2021-01-22,suspect - problem with blank
+12:14,35,Roshali,0.056,glucose,2021-01-22,suspect - problem with blank
+12:15,36,Griffin (Jonas' Ammonium),0.055,glucose,2021-01-22,suspect - problem with blank
+12:26,48,Griffin,0.057,glucose,2021-01-22,suspect - problem with blank
+12:26,47,Roshali,0.058,glucose,2021-01-22,suspect - problem with blank
+12:27,48,Griffin (Jonas' Ammonium),0.058,glucose,2021-01-22,suspect - problem with blank
+12:41,63,Griffin,0.079,glucose,2021-01-22,ok
+12:41,62,Roshali,0.081,glucose,2021-01-22,ok
+12:42,63,Griffin (Jonas' Ammonium),0.078,glucose,2021-01-22,ok
+12:53,75,Griffin,0.094,glucose,2021-01-22,ok
+12:53,74,Roshali,0.097,glucose,2021-01-22,ok
+12:54,75,Griffin (Jonas' Ammonium),0.092,glucose,2021-01-22,ok
+13:02,84,Griffin,0.105,glucose,2021-01-22,ok
+13:03,84,Roshali,0.11,glucose,2021-01-22,ok
+13:03,84,Griffin (Jonas' Ammonium),0.105,glucose,2021-01-22,ok
+13:14,96,Griffin,0.124,glucose,2021-01-22,ok
+13:15,96,Roshali,0.131,glucose,2021-01-22,ok
+13:15,96,Griffin (Jonas' Ammonium),0.125,glucose,2021-01-22,ok
+13:26,108,Griffin,0.146,glucose,2021-01-22,ok
+13:27,108,Griffin (Jonas' Ammonium),0.147,glucose,2021-01-22,ok
+13:28,109,Roshali,0.164,glucose,2021-01-22,ok
+13:41,123,Griffin,0.174,glucose,2021-01-22,ok
+13:41,122,Roshali,0.191,glucose,2021-01-22,ok
+13:42,123,Griffin (Jonas' Ammonium),0.177,glucose,2021-01-22,ok
+13:53,135,Griffin,0.203,glucose,2021-01-22,ok
+13:53,134,Roshali,0.23,glucose,2021-01-22,ok
+13:54,135,Griffin (Jonas' Ammonium),0.201,glucose,2021-01-22,ok
+14:05,147,Griffin,0.236,glucose,2021-01-22,ok
+14:06,147,Roshali,0.27,glucose,2021-01-22,ok
+14:07,148,Griffin (Jonas' Ammonium),0.236,glucose,2021-01-22,ok
+14:17,159,Griffin,0.271,glucose,2021-01-22,ok
+14:18,159,Roshali,0.323,glucose,2021-01-22,ok
+14:19,160,Griffin (Jonas' Ammonium),0.26,glucose,2021-01-22,ok
+14:29,171,Griffin,0.298,glucose,2021-01-22,ok
+14:30,171,Roshali,0.373,glucose,2021-01-22,ok
+14:30,171,Griffin (Jonas' Ammonium),0.288,glucose,2021-01-22,ok
+14:41,183,Griffin,0.34,glucose,2021-01-22,ok
+14:42,183,Roshali,0.447,glucose,2021-01-22,ok
+14:42,183,Griffin (Jonas' Ammonium),0.321,glucose,2021-01-22,ok

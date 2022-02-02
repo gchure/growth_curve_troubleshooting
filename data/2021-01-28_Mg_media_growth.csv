@@ -1,0 +1,46 @@
+clock_time,elapsed_time_min,media,od_600nm,carbon_source,date,note
+14:46,0,Roshali N-C-,0.038,glucose,2021-02-28,measurement before Richa turned off spec for a few min
+14:47,0,Griffin N-C-+ Mg,0.035,glucose,2021-02-28,measurement before Richa turned off spec for a few min
+14:48,0,Griffin N-C-,0.043,glucose,2021-02-28,measurement before Richa turned off spec for a few min
+14:48,0,Roshali N-C- + Mg,0.042,glucose,2021-02-28,measurement before Richa turned off spec for a few min
+14:48,0,LH Spec Blank,0,glucose,2021-02-28,ok
+14:59,13,Roshali N-C-,0.043,glucose,2021-02-28,measurement before Richa turned off spec for a few min
+15:00,13,Griffin N-C-+ Mg,0.044,glucose,2021-02-28,measurement before Richa turned off spec for a few min
+15:00,12,Griffin N-C-,0.05,glucose,2021-02-28,measurement before Richa turned off spec for a few min
+15:01,13,Roshali N-C- + Mg,0.052,glucose,2021-02-28,measurement before Richa turned off spec for a few min
+15:01,13,LH Spec Blank,-0.004,glucose,2021-02-28,ok
+15:12,26,Roshali N-C-,0.055,glucose,2021-02-28,ok
+15:12,25,Griffin N-C-+ Mg,0.052,glucose,2021-02-28,ok
+15:13,25,Griffin N-C-,0.06,glucose,2021-02-28,ok
+15:13,25,Roshali N-C- + Mg,0.065,glucose,2021-02-28,ok
+15:14,26,LH Spec Blank,-0.005,glucose,2021-02-28,ok
+15:24,38,Roshali N-C-,0.068,glucose,2021-02-28,ok
+15:25,38,Griffin N-C-+ Mg,0.062,glucose,2021-02-28,ok
+15:25,37,Griffin N-C-,0.069,glucose,2021-02-28,ok
+15:26,38,Roshali N-C- + Mg,0.078,glucose,2021-02-28,ok
+15:26,38,LH Spec Blank,-0.005,glucose,2021-02-28,ok
+15:37,51,Roshali N-C-,0.078,glucose,2021-02-28,ok
+15:37,50,Griffin N-C-+ Mg,0.073,glucose,2021-02-28,ok
+15:38,50,Griffin N-C-,0.085,glucose,2021-02-28,ok
+15:38,50,Roshali N-C- + Mg,0.093,glucose,2021-02-28,ok
+15:39,51,LH Spec Blank,-0.005,glucose,2021-02-28,ok
+15:49,63,Roshali N-C-,0.093,glucose,2021-02-28,ok
+15:49,62,Griffin N-C-+ Mg,0.088,glucose,2021-02-28,ok
+15:50,62,Griffin N-C-,0.103,glucose,2021-02-28,ok
+15:50,62,Roshali N-C- + Mg,0.113,glucose,2021-02-28,ok
+15:51,63,LH Spec Blank,-0.006,glucose,2021-02-28,ok
+16:02,76,Roshali N-C-,0.116,glucose,2021-02-28,ok
+16:02,75,Griffin N-C-+ Mg,0.105,glucose,2021-02-28,ok
+16:03,75,Griffin N-C-,0.112,glucose,2021-02-28,ok
+16:03,75,Roshali N-C- + Mg,0.136,glucose,2021-02-28,ok
+16:04,76,LH Spec Blank,-0.006,glucose,2021-02-28,ok
+16:14,88,Roshali N-C-,0.139,glucose,2021-02-28,ok
+16:15,88,Griffin N-C-+ Mg,0.128,glucose,2021-02-28,ok
+16:15,87,Griffin N-C-,0.138,glucose,2021-02-28,ok
+16:16,88,Roshali N-C- + Mg,0.171,glucose,2021-02-28,ok
+16:16,88,LH Spec Blank,-0.006,glucose,2021-02-28,ok
+16:27,101,Roshali N-C-,0.168,glucose,2021-02-28,ok
+16:28,101,Griffin N-C-+ Mg,0.149,glucose,2021-02-28,ok
+16:28,100,Griffin N-C-,0.164,glucose,2021-02-28,ok
+16:29,101,Roshali N-C- + Mg,0.205,glucose,2021-02-28,ok
+16:29,101,LH Spec Blank,-0.008,glucose,2021-02-28,ok
